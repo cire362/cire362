@@ -38,15 +38,6 @@ I am an 18-year-old student and developer passionate about building web applicat
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-xi-lyart-36.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-xi-lyart-36.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 Connect with me
 
 - **Telegram:** [@your_handle](https://t.me/your_handle)
