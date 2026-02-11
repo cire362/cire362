@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Kirill
 
 I am an 18-year-old student and developer passionate about building web applications.
 
@@ -40,5 +40,5 @@ I am an 18-year-old student and developer passionate about building web applicat
 
 ## 📫 Connect with me
 
-- **Telegram:** [@your_handle](https://t.me/your_handle)
-- **Email:** your-email@example.com
+- **Telegram:** [@kii1888](https://t.me/kii1888)
+- **Email:** kirillshamanaev1@gmail.com
