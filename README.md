@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kirill
+# Hi there! 👋 I'm [Your Name]
 
 I am an 18-year-old student and developer passionate about building web applications.
 
@@ -30,18 +30,24 @@ I am an 18-year-old student and developer passionate about building web applicat
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cire372&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cire362e&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-xi-lyart-36.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-xi-lyart-36.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 ## 📫 Connect with me
 
-- **Telegram:** [@kii1888](https://t.me/kii1888)
-- **Email:** kirillshamanaev1@gmail.com
+- **Telegram:** [@your_handle](https://t.me/your_handle)
+- **Email:** your-email@example.com
