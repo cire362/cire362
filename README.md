@@ -24,15 +24,6 @@ I am an 18-year-old student and developer passionate about building web applicat
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 Connect with me
 
 - **Email:** kirillshamanaev1@gmail.com
