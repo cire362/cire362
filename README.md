@@ -42,5 +42,5 @@ I am an 18-year-old student and developer passionate about building web applicat
 
 ## 📫 Connect with me
 
-- **Telegram:** [@kii1888](https://t.me/kii1888)
+- **Telegram:** [@kii1888](https://t.me/MortaliTy188)
 - **Email:** kirillshamanaev1@gmail.com
