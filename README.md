@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Kirill
 
+🇬🇧 English · [🇷🇺 Русская версия](README.ru.md)
+
 Fullstack developer from Yekaterinburg. Node.js and TypeScript on the backend, Vue and React on the frontend.
 
 - 🎓 Student of Information Systems and Programming, graduating in 2027
@@ -16,6 +18,8 @@ Fullstack developer from Yekaterinburg. Node.js and TypeScript on the backend, V
 **[Self-service-terminal](https://github.com/cire362/Self-service-terminal)** — ordering terminal for restaurants. Vue 3 and Pinia: tablet ordering screen, staff panel with orders and menu management, iiko integration, live updates over several WebSocket channels.
 
 **[tracker-app-server](https://github.com/cire362/tracker-app-server)** and **[tracker-app-frontend](https://github.com/cire362/tracker-app-frontend)** — gamified learning tracker. REST API of 95 endpoints documented in Swagger, levels and achievements engine, real-time chat and friends on Socket.io, React and Material UI client with i18n.
+
+**Solder** — an experimental native IDE for fullstack teams, written in Rust with a GPU-rendered UI (GPUI): about 77k lines across 12 crates with 306 unit tests, plus a Next.js website. Tree-sitter highlighting, language servers, extensions installed from the Zed and VS Code catalogs, plugins as WebAssembly and WASI programs with a permission model. Most of the code is written by coding agents under my direction: I set the architecture, constraints and acceptance criteria, review every diff, and keep the rules agents follow in `AGENTS.md`. The repository is private for now, I am happy to walk through it.
 
 **[discord_clone](https://github.com/cire362/discord_clone)** — desktop messenger. Tauri and React on the client, Hono, Prisma and PostgreSQL on the server: JWT auth, friends, direct messages.
 
